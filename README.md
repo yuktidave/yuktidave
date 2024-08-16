@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuktidave" alt="yuktidave" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yukti_dave" target="blank"><img src="https://img.shields.io/twitter/follow/yukti_dave?logo=twitter&style=for-the-badge" alt="yukti_dave" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/qnUYpZW_wJMQDLA4X9MetoLm36RZBJKxN4VwoBv33gI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWdpcmwtYW5pbWF0/aW9uLWZlN3Q0Z2Vq/dXJtdG9mOHYuZ2lm.gif">
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
