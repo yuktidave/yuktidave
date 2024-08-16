@@ -1,4 +1,4 @@
-![logo](https://github.com/yuktidave/yuktidave/blob/main/README.md)
+![logo](https://github.com/yuktidave/yuktidave/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Yukti Dave</h1>
 <h3 align="center">A Data Science Aficionado</h3>
 
