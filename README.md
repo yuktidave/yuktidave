@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yukti_dave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yukti_dave" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yukti-dave/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yukti-dave/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yukti-dave/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yukti-dave/" height="30" width="40" /></a>
 <a href="https://kaggle.com/yukti_dave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yukti_dave" height="30" width="40" /></a>
 <a href="https://instagram.com/_yukt.an_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yukt.an_" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yuktidave1212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yuktidave1212" height="30" width="40" /></a>
