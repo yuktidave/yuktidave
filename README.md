@@ -9,15 +9,13 @@
 <p align="left"> <a href="https://twitter.com/yukti_dave" target="blank"><img src="https://img.shields.io/twitter/follow/yukti_dave?logo=twitter&style=for-the-badge" alt="yukti_dave" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/qnUYpZW_wJMQDLA4X9MetoLm36RZBJKxN4VwoBv33gI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWdpcmwtYW5pbWF0/aW9uLWZlN3Q0Z2Vq/dXJtdG9mOHYuZ2lm.gif">
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yuktidave](https://github.com/yuktidave)
 
-- 💬 Ask me about **HTML, CSS, Java**
+- 💬 Ask me about **C++, Tableau, Python, SQL**
 
 - 📫 How to reach me **yuktidave1212@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/yuktidave/My-Resume](https://github.com/yuktidave/My-Resume)
 
 - ⚡ Fun fact **I love to cook**
 
