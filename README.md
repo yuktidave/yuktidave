@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yuktidave](https://github.com/yuktidave)
 
-- 💬 Ask me about **C++, Tableau, Python, SQL**
+- 💬 Ask me about **Power BI, Tableau, Python, SQL**
 
 - 📫 How to reach me **yuktidave1212@gmail.com**
 
