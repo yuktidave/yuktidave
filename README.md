@@ -1,10 +1,8 @@
 ![logo](https://github.com/yuktidave/yuktidave/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Yukti Dave</h1>
-<h3 align="center">A Data Science Aficionado</h3>
+<h3 align="center">A Data Analysis Aficionado</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuktidave&label=Profile%20views&color=0e75b6&style=flat" alt="yuktidave" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuktidave" alt="yuktidave" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yukti_dave" target="blank"><img src="https://img.shields.io/twitter/follow/yukti_dave?logo=twitter&style=for-the-badge" alt="yukti_dave" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/qnUYpZW_wJMQDLA4X9MetoLm36RZBJKxN4VwoBv33gI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWdpcmwtYW5pbWF0/aW9uLWZlN3Q0Z2Vq/dXJtdG9mOHYuZ2lm.gif">
